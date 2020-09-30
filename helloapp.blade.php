@@ -1,3 +1,4 @@
+/* resource veiews layouts  */
 <html>
 <head>
 <title>@yield('title')</title>
@@ -29,5 +30,4 @@ border-bottom:solid 1px #ccc; color:#ccc;}
  </div>
  </body>
  </html>
- /*
  
